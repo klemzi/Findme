@@ -14,8 +14,8 @@ The second state (long press), health attention. sends an alert message to the c
 This solution was built using Azure cloud services, and data stored is used for reporting. Power BI is used to create reports, with insights like areas which has the high number of security treats. it is also used for live map visuals to aid near real time tracking.
 
 ## Device
-1. adafruit Hazzah
-2. push button
+1. Adafruit Feather HUZZAH
+2. Push button
 3. GPS
 4. Lion battery
 
