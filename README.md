@@ -13,13 +13,13 @@ The second state (long press), health attention. sends an alert message to the c
 
 This solution was built using Azure cloud services, and data stored is used for reporting. Power BI is used to create reports, with insights like areas which has the high number of security treats. it is also used for live map visuals to aid near real time tracking.
 
-##Device
+## Device
 1. adafruit Hazzah
 2. push button
 3. GPS
 4. Lion battery
 
-##Azure cloud services 
+## Azure cloud services 
 1. IoT Hub - Gateway with routing capabilities
 2. Service Bus queues - feed into logic apps
 3. Logic apps - emails, tweets, and sms
@@ -27,5 +27,5 @@ This solution was built using Azure cloud services, and data stored is used for 
 5. Cosmos db - History reports / database
 6. Azure functions - serverless functions used for certain tasks
 
-##Reporting
+## Reporting
 1. Power BI
