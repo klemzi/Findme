@@ -1,5 +1,5 @@
 # Findme
-Connected people, easy search
+Connected people, fast search!
 
 
 Saftey! Safety! Safety!, we all want to feel protected. Nigeria is growing gradually in technology, however with so many system not yet in place like street CCTV, AI traffic control, connected things & people, and  so on, we want to feel safe.
