@@ -12,8 +12,6 @@ Findme me is a device with a button with two states. the first state (double pre
 The second state (long press), health attention. sends an alert message to the closest emergency unit and also alerts your close relatives.
 
 
-Findme Architecture
-
 This solution was built using Azure cloud services, and data stored is used for reporting. Power BI is used to create reports, with insights like areas which has the high number of security treats. it is also used for live map visuals to aid near real time tracking.
 
 ## Device
