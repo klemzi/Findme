@@ -10,7 +10,12 @@ Findme connects people. This solution alerts security agents,hospitals in case o
 Findme me is a device with a button with two states. the first state (double press) handles security treat, by sending first a help message to security services closest to you via email and sms, then updates your location with time to enable them track you using a map. The device also sends message to your closest relatives and tweets it so that your friends can see. Findme will get help!
 
 The second state (long press), health attention. sends an alert message to the closest emergency unit and also alerts your close relatives.
+
+
 ![findme architecture](findme.PNG)
+
+
+
 
 This solution was built using Azure cloud services, and data stored is used for reporting. Power BI is used to create reports, with insights like areas which has the high number of security treats. it is also used for live map visuals to aid near real time tracking.
 
